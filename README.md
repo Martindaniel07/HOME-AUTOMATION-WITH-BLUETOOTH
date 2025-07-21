@@ -19,3 +19,5 @@ by the microcontroller to switch relays on or off, thereby controlling the conne
 
 This demonstrates the integration of wireless communication with embedded systems, offering a convenient and low-cost solution for smart home applications. It eliminates the need for manual operation and provides flexibility through remote control. Users can create a simple Android application or use any generic Bluetooth terminal app to send commands. The system ensures safety and efficiency, especially for elderly or differently-abled individuals, by reducing the need to interact physically with switches. This project serves as a practical introduction to IoT and smart living technologies.
 
+#output
+![Image](https://github.com/user-attachments/assets/470cac5d-2c1e-443c-a18d-3994a978eb4e)
